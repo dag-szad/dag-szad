@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **organizing my repositories**<br>🤝 I’m looking to collaborate on **website designs**<br>🌱 I’m currently learning **TypeScript**<br>💐 Fun fact: **I am a florist by profession**
+🔭 I’m currently working on **organizing my repositories**<br>🤝 I’m looking to collaborate on **website designs**<br>🌱 I’m currently learning **TypeScript, Docker and Kubernetes**<br>💐 Fun fact: **I am a florist by profession**
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
